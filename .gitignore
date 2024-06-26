@@ -1,0 +1,7 @@
+# Ignorar archivos de credenciales
+ayemood5-firebase-adminsdk-50x2w-31174e8b65.json
+
+# Ignorar otros archivos y directorios innecesarios
+__pycache__/
+*.pyc
+.env
